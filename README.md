@@ -11,7 +11,7 @@
 Project developed using my knowledge in the Java language.
 <br>This is an project developed with object orientation, some visibility modifiers and several methods.
 
-### Do you want to test the game? It's simple, just follow the steps:
+### Do you want to test the calculator? It's simple, just follow the steps:
 >1 - in your gitbash use the command: git clone 
 <br>2 - In eclipse create a new java project;
 <br>3 - Right click on ```SRC``` and navigate;
