@@ -22,7 +22,7 @@ Project developed using my knowledge in the Java language.
 
 
 ## OBJECTIVE
-The objective is to solve the mathematical operations.
+The objective is to solve the basic mathematical operations.
 
 
 ## PREVIEW
